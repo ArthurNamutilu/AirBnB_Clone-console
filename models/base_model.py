@@ -1,8 +1,8 @@
-import uuid  # imports uuid module
-from datetime import datetime  # imports datetime class from datetime module
 """
 This module defines all common attributes/methods for other classes
 """
+import uuid  # imports uuid module
+from datetime import datetime  # imports datetime class from datetime module
 
 
 class BaseModel:
